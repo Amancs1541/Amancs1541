@@ -1,98 +1,103 @@
-
 <div align="center">
-
-# `aman@iam-lab:~$ whoami`
-
-### Aman Varma | IAM • IGA • Cybersecurity
-
-**Securing identities. Automating access. Building practical security tools.**
-
-[![GitHub](https://img.shields.io/badge/GitHub-Amancs1541-181717?style=for-the-badge&logo=github)](https://github.com/Amancs1541)
-[![Microsoft](https://img.shields.io/badge/Microsoft-Identity%20%26%20Access-0078D4?style=for-the-badge&logo=microsoft)](https://learn.microsoft.com/en-us/credentials/certifications/identity-and-access-administrator/)
-[![Python](https://img.shields.io/badge/Python-Automation-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-
+  <img src="assets/aman-robotic-portrait.png" width="180" alt="Aman Varma — robotic cybersecurity portrait" />
+  <h1>aman@iam-lab:~$ whoami</h1>
+  <h3>Aman Varma · Identity & Access Management · IGA · Cybersecurity</h3>
+  <p><em>Securing identities. Automating access. Building practical security tools.</em></p>
+  <a href="https://github.com/Amancs1541"><img src="https://img.shields.io/badge/GitHub-Amancs1541-111827?style=for-the-badge&logo=github" alt="GitHub" /></a>
+  <a href="https://learn.microsoft.com/en-us/credentials/certifications/identity-and-access-administrator/"><img src="https://img.shields.io/badge/Microsoft-SC--300-0078D4?style=for-the-badge&logo=microsoft" alt="Microsoft SC-300" /></a>
+  <a href="https://verify.skilljar.com/c/6ccvzc7am848"><img src="https://img.shields.io/badge/SailPoint-Identity%20Security%20Leader-4B2E83?style=for-the-badge" alt="SailPoint credential" /></a>
 </div>
 
 ---
 
-## `root@iam-lab:~# neofetch`
+<table>
+<tr>
+<td width="34%" valign="top">
 
-```text
-       ___
-      /   \
-     / IAM \       AMAN VARMA
-    /_______\      -------------------------
-    |  ___  |      Role     : IAM / Security
-    | |___| |      Focus    : Identity Security
-    |_______|      Governance: IGA / RBAC
-                   Platform : Entra ID / AD
-                   Scripting: Python / PowerShell
-                   APIs     : Microsoft Graph / REST
-                   Security : SSO / MFA / PIM
-                   Learning : Cloud & Automation
-```
+## `profile --summary`
 
-## `root@iam-lab:~# cat about.txt`
+**Focus**  
+IAM / IGA / Identity Security
 
-I'm focused on Identity and Access Management, Identity Governance and Administration, and cybersecurity automation. I enjoy turning identity-security concepts into practical implementations, scripts, and applications.
+**Identity**  
+Microsoft Entra ID · Active Directory
 
-My interests include identity lifecycle management, least-privilege access, access reviews, privileged identity management, and secure enterprise access.
+**Automation**  
+Python · PowerShell · Microsoft Graph
 
-## `root@iam-lab:~# ls ./certifications`
+**Security**  
+SSO · MFA · PIM · RBAC · Conditional Access
 
-| Credential | Issuer |
+**Build mode**  
+Learn · Build · Secure
+
+</td>
+<td width="66%" valign="top">
+
+## `cat about.txt`
+
+I'm an IAM-focused cybersecurity professional interested in identity governance, secure access, and automation. I build hands-on projects that explore identity lifecycle workflows, access requests and approvals, role-based access control, and identity-security analytics.
+
+My approach is practical: learn a technology, implement it in a lab or project, document the result, and improve it.
+
+</td>
+</tr>
+</table>
+
+## `skills --list`
+
+| Area | Technologies and topics |
 |---|---|
-| Microsoft Certified: Identity and Access Administrator Associate (SC-300) | Microsoft |
-| SailPoint Identity Security Leader Credential | SailPoint Identity University |
-| Python Essentials 1 | Cisco Networking Academy |
-| Ethical Hacker | Cisco Networking Academy |
-| Network Defense | Skill India Digital Hub / NSDC |
-| Introduction to Cybersecurity | Cisco Networking Academy |
-| Getting Started with Cisco Packet Tracer | Cisco Networking Academy |
+| **Identity & Access** | Microsoft Entra ID, Active Directory, IAM, IGA, RBAC, SSO, MFA, PIM, Conditional Access, access reviews, identity lifecycle management |
+| **Programming & automation** | Python, PowerShell, SQL, JavaScript, TypeScript |
+| **APIs & backend** | Microsoft Graph API, REST APIs, FastAPI |
+| **Frontend & data** | React, PostgreSQL, MySQL |
+| **Developer tools** | Git, GitHub, Docker, VS Code, Postman |
+| **Security & analytics** | Audit logs, security monitoring, anomaly detection, machine learning |
 
-## `root@iam-lab:~# ls ./tech-stack`
+## `certifications --list`
 
-**Identity & Access**
-`Microsoft Entra ID` `Active Directory` `IGA` `RBAC` `SSO` `MFA` `PIM` `Conditional Access`
+| Credential | Details |
+|---|---|
+| **Microsoft Certified: Identity and Access Administrator Associate (SC-300)** | Earned 23 June 2026 · Valid through 24 June 2027 · [Microsoft certification page](https://learn.microsoft.com/en-us/credentials/certifications/identity-and-access-administrator/) |
+| **SailPoint Identity Security Leader Credential** | Issued 13 September 2026 · [Verify credential](https://verify.skilljar.com/c/6ccvzc7am848) |
+| **Cisco Networking Academy — Python Essentials 1** | Completed course shown in learning transcript |
+| **Cisco Networking Academy — Ethical Hacker** | Completed course shown in learning transcript |
+| **Network Defense** | Completed course shown in learning transcript · Skill India Digital Hub / NSDC |
+| **Cisco Networking Academy — Introduction to Cybersecurity** | Completed course shown in learning transcript |
+| **Getting Started with Cisco Packet Tracer** | Completed course shown in learning transcript |
 
-**Programming & Automation**
-`Python` `PowerShell` `SQL` `REST APIs` `Microsoft Graph API`
+## `projects --list`
 
-**Development & Tools**
-`Git` `GitHub` `Docker` `FastAPI` `React` `PostgreSQL`
-
-## `root@iam-lab:~# ls ./projects`
-
-### AccessPilot — Identity Governance Platform
+### `AccessPilot` — Identity Governance Platform
 Developing an IGA-oriented application for identity lifecycle workflows, access requests, approvals, role-based access control, and identity-provider integrations.
 
-### IAM Anomaly Detection
-A machine-learning project exploring anomalous identity activity using audit-log data and models such as Isolation Forest, Local Outlier Factor, and Autoencoders.
+### `IAM Anomaly Detection`
+A machine-learning project using identity audit-log data to explore anomalous activity detection with Isolation Forest, Local Outlier Factor, and Autoencoders.
 
-### Active Directory Lab
-Hands-on practice with domain configuration, users, groups, Group Policy, and Windows identity administration in a cloud-hosted lab.
+### `Active Directory Lab`
+Hands-on lab work with domain setup, users, groups, Group Policy, and Windows identity administration in a cloud-hosted environment.
 
-### PowerShell Learning
-Practical scripts and exercises for Windows administration and security automation.
+### `PowerShell Learning`
+Practical scripting exercises for Windows administration and automation.
 
-> Add links to the actual repositories above once you have confirmed their GitHub URLs.
+> Add links to each project title once its public repository URL is confirmed. Keep only projects that are available to view or that you can confidently discuss.
 
-## `root@iam-lab:~# cat current-focus.txt`
+## `currently-working-on.txt`
 
 - Building practical IAM and IGA workflows
-- Automating identity operations with Python and PowerShell
-- Improving identity security and access governance
-- Learning through hands-on labs and documented projects
+- Automating identity tasks with Python and PowerShell
+- Improving access governance and least-privilege practices
+- Documenting hands-on labs and security projects
 
-## `root@iam-lab:~# ./connect.sh`
+## `connect.sh`
 
 - GitHub: [@Amancs1541](https://github.com/Amancs1541)
-- LinkedIn: [Connect with me](https://in.linkedin.com/in/aman-varma-318321167)
+- LinkedIn: [Aman Varma](https://in.linkedin.com/in/aman-varma-318321167)
+
+---
 
 <div align="center">
-
-`[ ACCESS CONTROLLED BY CURIOSITY ]`
-
-*Learn continuously. Build practically. Secure identities.*
-
+  <code>[ ACCESS CONTROLLED BY CURIOSITY ]</code><br />
+  <sub>Learn continuously · Build practically · Secure identities</sub>
 </div>
